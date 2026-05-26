@@ -6,7 +6,8 @@ The system demonstrates how blockchain technology can be used for digital record
 
 Main Objective: </br>
 The primary goal of this smart contract is to: </br>
-* Store library books securely on-chain
+* Store library books securely on-chain.
+* Prevent duplicate
 
  
 ## 📌 Features
