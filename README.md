@@ -31,6 +31,7 @@ The primary goal of this smart contract is to: </br>
 * ****[Foundry(forge, cast, anvil)](https://www.getfoundry.sh/)****  - Development framework and testing suite.
 * ****[Visual Studio Code](https://code.visualstudio.com/)**** - Install this IDE only if you are using foundry development kit  rather than "Remix IDE" which is for quick prototying.
 
+## 📋Contract Details
 
 ## Foundry
 
