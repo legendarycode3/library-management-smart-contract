@@ -14,7 +14,7 @@ The primary goal of this smart contract is to: </br>
 
  
 ## 📌 Features
-* ****Duplicate Prevention:**** The contract checks
+* ****Duplicate Prevention:**** The contract checks whether a book ID already
 * ****Book Availability Toggle:**** Any user can update
 * ****On-Chain Storage:****
 * ****Event Emission:****
