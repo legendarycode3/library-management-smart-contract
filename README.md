@@ -37,8 +37,8 @@ The primary goal of this smart contract is to: </br>
 ### Variables:
 * ****`s_booksCount`****:
 * ****`i_owner`****:
-* ****`s_bookState`****:
-* ****`s_bookRegistry`****: Stores all books
+* ****`s_bookState`****: Stores enum state.
+* ****`s_bookRegistry`****: Stores all books.
 
 ## Foundry
 
