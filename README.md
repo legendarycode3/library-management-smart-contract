@@ -34,7 +34,7 @@ The primary goal of this smart contract is to: </br>
 ## 📋Contract Details
 ### Functions:
 * ****`addBook()`****: Adds a new book into the library. Owner-only access. The function Prevents duplicate IDs, Stores book data and Emits registration event.
-* ****`toggleBookAvailable()`****: Changes a book’s availability status. The function Verifies book existence, Toggles boolean availability
+* ****`toggleBookAvailable()`****: Changes a book’s availability status. The function Verifies book existence, Toggles boolean availability and Emits status update event.
 
 ### Variables:
 * ****`s_booksCount`****: Tracks total books added.
