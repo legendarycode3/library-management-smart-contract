@@ -33,7 +33,7 @@ The primary goal of this smart contract is to: </br>
 
 ## 📋Contract Details
 ### Functions:
-* ****`addBook()`****:
+* ****`addBook()`****: Adds a new book
 
 ### Variables:
 * ****`s_booksCount`****: Tracks total books added.
