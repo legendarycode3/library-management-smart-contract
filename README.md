@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+## 📌 Features
+
 ## 🧠 Key Concepts Applied
 
 ## Foundry
