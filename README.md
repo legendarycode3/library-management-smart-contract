@@ -37,6 +37,7 @@ The primary goal of this smart contract is to: </br>
 ### Variables:
 * ****`s_booksCount`****:
 * ****`i_owner`****:
+* ****`s_bookState`****:
 
 ## Foundry
 
