@@ -1,8 +1,8 @@
 #  📚 Library Management  Smart Contract
 
 ## Project Overview
-`LibraryManagement`
-
+`LibraryManagement` is a decentralized smart contract
+ 
 ## 📌 Features
 
 ## 🧠 Key Concepts Applied
