@@ -35,6 +35,7 @@ The primary goal of this smart contract is to: </br>
 ### Functions:
 
 ### Variables:
+* ****`s_booksCount`****:
 
 ## Foundry
 
