@@ -34,7 +34,7 @@ The primary goal of this smart contract is to: </br>
 * ****Custom Error:**** The Custom error provided a more gas-efficient error handling. Consumes less gas than revert strings.
 * ****Enums:**** Implemented Enum , which Improves readability and state management. Represents book states.
   Purpose: Enums define a fixed set of constant values.
-* ****Storage References:**** Storage Reference like this `Book storage book = s_bookRegistry[_bookId];`
+* ****Storage References:**** Storage Reference like this `Book storage book = s_bookRegistry[_bookId];` , Storage references directly
 
 ## 📂 Project Structure (Files)
 
