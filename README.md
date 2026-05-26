@@ -36,7 +36,7 @@ The primary goal of this smart contract is to: </br>
 
 ### Variables:
 * ****`s_booksCount`****:
-* ****`i_owner`****:
+* ****`i_owner`****:  Immutable contract owner.
 * ****`s_bookState`****: Stores enum state.
 * ****`s_bookRegistry`****: Stores all books.
 
