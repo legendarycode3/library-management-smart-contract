@@ -18,7 +18,7 @@ The primary goal of this smart contract is to: </br>
 * ****Owner-Only Book Registration:**** Only the contract owner can add new books into the library system using the `addBook()` function.
 * ****Book Availability Toggle:**** Any user can update a book’s availability status using the `toggleBookAvailable()` function.
 * ****On-Chain Storage:**** All books are permanently stored on the blockchain through mappings.
-* ****Event Emission:**** These events `BookRegistered` and `BookStatusToggled` improve transparency
+* ****Event Emission:**** These events `BookRegistered` and `BookStatusToggled` improve transparency and offchain interaction.
 * ****Custom Errors:****
 
 ## 🧠 Key Concepts Applied
