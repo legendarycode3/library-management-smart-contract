@@ -10,7 +10,7 @@ The primary goal of this smart contract is to: </br>
 * Prevent duplicate book registrations.
 * Allow availability tracking of books.
 * Demonstrate access control using Solidity modifiers.
-* Emit blockchain
+* Emit blockchain events for transparency
 
  
 ## 📌 Features
