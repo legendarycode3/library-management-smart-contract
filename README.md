@@ -14,6 +14,7 @@ The primary goal of this smart contract is to: </br>
 
  
 ## 📌 Features
+* ****Duplicate Prevention:****
 
 ## 🧠 Key Concepts Applied
 
