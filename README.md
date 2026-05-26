@@ -26,7 +26,8 @@ The primary goal of this smart contract is to: </br>
   Purpose: Structs group multiple related variables into a single custom data type.
 * ****Mapping:**** The contract uses mappings for efficient book storage and retrieval. </br>
   Purpose: Mappings store key-value pairs on-chain.
-* s
+* ****Modifiers:****
+* 
 
 ## 📂 Project Structure (Files)
 
