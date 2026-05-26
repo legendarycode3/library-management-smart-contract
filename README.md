@@ -38,7 +38,7 @@ The primary goal of this smart contract is to: </br>
 * ****`s_booksCount`****:
 * ****`i_owner`****:
 * ****`s_bookState`****:
-* ****`s_bookRegistry`****:
+* ****`s_bookRegistry`****: Stores all books
 
 ## Foundry
 
