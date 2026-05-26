@@ -34,6 +34,8 @@ The primary goal of this smart contract is to: </br>
 ## 📋Contract Details
 ### Functions:
 
+### Variables:
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
