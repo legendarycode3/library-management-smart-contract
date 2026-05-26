@@ -15,7 +15,7 @@ The primary goal of this smart contract is to: </br>
  
 ## 📌 Features
 * ****Duplicate Prevention:**** The contract checks whether a book ID already exists before adding a new book.
-* ****Owner-Only Book Registration:****
+* ****Owner-Only Book Registration:**** Only the contract owner
 * ****Book Availability Toggle:**** Any user can update
 * ****On-Chain Storage:****
 * ****Event Emission:****
