@@ -32,6 +32,7 @@ The primary goal of this smart contract is to: </br>
 * ****Event:**** The contract emits blockchain events for transparency.
   Purpose: Events log important contract activities on-chain.
 * ****Custom Error:**** The Custom error provided a more gas-efficient error handling. Consumes less gas than revert strings.
+* ****Enums:****
 
 ## 📂 Project Structure (Files)
 
