@@ -10,7 +10,7 @@
 
 ## 🌐Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** -  The programming language for writing the Smart contracts.
-* ****[Remix IDE](https://remix.ethereum.org/)**** -
+* ****[Remix IDE](https://remix.ethereum.org/)**** - used it to write, and deploy the smart contract directly in the browser first.
 * ****[Foundry(forge, cast, anvil)](https://www.getfoundry.sh/)****  -
 * ****[Visual Studio Code](https://code.visualstudio.com/)**** - 
 
