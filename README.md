@@ -17,6 +17,7 @@ The primary goal of this smart contract is to: </br>
 * ****Duplicate Prevention:****
 * ****Book Availability Toggle:**** Any user can update
 * ****On-Chain Storage:****
+* ****Event Emission:****
 
 ## 🧠 Key Concepts Applied
 
