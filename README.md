@@ -8,7 +8,7 @@ Main Objective: </br>
 The primary goal of this smart contract is to: </br>
 * Store library books securely on-chain.
 * Prevent duplicate book registrations
-* Allow availability
+* Allow availability tracking of books
 
  
 ## 📌 Features
