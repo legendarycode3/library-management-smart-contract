@@ -5,7 +5,7 @@
 The system demonstrates how blockchain technology can be used for digital record management, ownership control, transparency, and event-driven tracking in a decentralized environment. </br>
 
 Main Objective: </br>
-The primary goal
+The primary goal of this smart contract is to:
 
  
 ## 📌 Features
