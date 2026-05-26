@@ -9,6 +9,7 @@
 ## 📂 Project Structure (Files)
 
 ## 🌐Technology Stack (Technologies Used)
+* ****[Solidity](https://www.soliditylang.org/)**** -
 
 ## Foundry
 
