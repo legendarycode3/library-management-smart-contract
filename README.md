@@ -29,7 +29,7 @@ The primary goal of this smart contract is to: </br>
 * ****Modifier:**** The contract applies access control using modifiers.
   Purpose: Modifiers restrict function execution conditions.
 * ****Constructor:**** The constructor initializes the contract during deployment.
-* ****Events:**** The contract emits
+* ****Events:**** The contract emits blockchain events for transparency.
 
 ## 📂 Project Structure (Files)
 
