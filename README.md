@@ -19,7 +19,7 @@ The primary goal of this smart contract is to: </br>
 * ****Book Availability Toggle:**** Any user can update a book’s availability status using the `toggleBookAvailable()` function.
 * ****On-Chain Storage:**** All books are permanently stored on the blockchain through mappings.
 * ****Event Emission:**** These events `BookRegistered` and `BookStatusToggled` improve transparency and offchain interaction.
-* ****Custom Errors:**** Gas-efficient
+* ****Custom Errors:**** Gas-efficient custom Solidity errors are used
 
 ## 🧠 Key Concepts Applied
 
