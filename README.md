@@ -57,7 +57,7 @@ The primary goal of this smart contract is to: </br>
 
 ## Why This Matters (Library Managment Smart Contract)
 Library Managment Smart Contracts are crucial in web3 blockchain systems for:
-1. ****Decentralized Record Management:**** Traditional library systems
+1. ****Decentralized Record Management:**** Traditional library systems rely on centralized databases that
 
 ## Foundry
 
