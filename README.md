@@ -33,7 +33,7 @@ The primary goal of this smart contract is to: </br>
   Purpose: Events log important contract activities on-chain.
 * ****Custom Error:**** The Custom error provided a more gas-efficient error handling. Consumes less gas than revert strings.
 * ****Enums:**** Implemented Enum , which Improves readability and state management. Represents book states.
-  Purpose: Enums define
+  Purpose: Enums define a fixed set of constant values.
 * 
 
 ## 📂 Project Structure (Files)
