@@ -28,7 +28,8 @@ The primary goal of this smart contract is to: </br>
   Purpose: Mappings store key-value pairs on-chain.
 * ****Modifier:**** The contract applies access control using modifiers.
   Purpose: Modifiers restrict function execution conditions.
-* ****Constructor:****
+* ****Constructor:**** A constructor initializes
+* 
 
 ## 📂 Project Structure (Files)
 
