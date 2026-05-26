@@ -24,7 +24,8 @@ The primary goal of this smart contract is to: </br>
 ## 🧠 Key Concepts Applied
 * ****Struct:**** The contract uses a `struct` to organize and store book information efficiently.</br>
   Purpose: Structs group multiple related variables into a single custom data type.
-* ****Mapping:****
+* ****Mapping:**** The contract uses
+* s
 
 ## 📂 Project Structure (Files)
 
