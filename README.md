@@ -31,7 +31,7 @@ The primary goal of this smart contract is to: </br>
 * ****Constructor:**** The constructor initializes the contract during deployment.
 * ****Events:**** The contract emits blockchain events for transparency.
   Purpose: Events log important contract activities on-chain.
-* 
+* ****Custom Errors:****
 
 ## 📂 Project Structure (Files)
 
