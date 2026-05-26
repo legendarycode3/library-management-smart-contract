@@ -8,7 +8,7 @@
 
 ## 📂 Project Structure (Files)
 
-## 🌐Technology Stack ()
+## 🌐Technology Stack (Technologies Used)
 
 ## Foundry
 
