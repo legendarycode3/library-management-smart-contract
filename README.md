@@ -1,7 +1,7 @@
 #  📚 Library Management  Smart Contract
 
 ## Project Overview
-`LibraryManagement` is a decentralized smart contract built with Solidity for managing books on-chain. The contract allows a library owner to register
+`LibraryManagement` is a decentralized smart contract built with Solidity for managing books on-chain. The contract allows a library owner to register books while enabling users to toggle the availability status of
  
 ## 📌 Features
 
