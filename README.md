@@ -56,6 +56,7 @@ The primary goal of this smart contract is to: </br>
 * ****`s_bookRegistry`****: Stores all books.
 
 ## Why This Matters (Library Managment Smart Contract)
+Library Managment Smart Contracts
 
 ## Foundry
 
