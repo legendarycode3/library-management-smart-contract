@@ -15,7 +15,8 @@ The primary goal of this smart contract is to: </br>
  
 ## 📌 Features
 * ****Duplicate Prevention:****
-* ****Book Availability Toggle:****
+* ****Book Availability Toggle:**** Any user can update
+* ****
 
 ## 🧠 Key Concepts Applied
 
