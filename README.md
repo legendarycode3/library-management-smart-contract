@@ -22,7 +22,7 @@ The primary goal of this smart contract is to: </br>
 * ****Custom Errors:**** Gas-efficient custom Solidity errors are used instead of long revert strings.
 
 ## 🧠 Key Concepts Applied
-* ****Struct:**** The contract uses a
+* ****Struct:**** The contract uses a `struct` to organize
 
 ## 📂 Project Structure (Files)
 
