@@ -51,6 +51,7 @@ The primary goal of this smart contract is to: </br>
     * Storage of registered books and total books count.
     * Validation checks for duplicate books and non-existent books. </br>
   Purpose: </br>
+    * Handles all on-chain
 * 
 
 ## 🌐Technology Stack (Technologies Used)
