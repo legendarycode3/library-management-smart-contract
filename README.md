@@ -98,6 +98,7 @@ The primary goal of this smart contract is to: </br>
 ## Usage
 ### Building the Project (Using Remix IDE): 
 1. Copy the core smart contract file code `LibraryManagement.sol`  to Remix IDE (a browser based IDE, for quick prototyping).
+2. Create a new file for the project
 
 
 ## 📋Contract Details
