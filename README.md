@@ -73,6 +73,7 @@ The primary goal of this smart contract is to: </br>
  
   Purpose: </br>
   Ensures the `LibraryManagement.sol` contract works correctly, securely, and as expected before deployment by validating:
+    * Business logic.
     
 
 ## 🌐Technology Stack (Technologies Used)
