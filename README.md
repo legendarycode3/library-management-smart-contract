@@ -49,6 +49,7 @@ The primary goal of this smart contract is to: </br>
     * Modifiers for permission control.
     * Constructor for initializing ownership.
     * Storage of registered books and total books count.
+    * Validation checks for
 * 
 
 ## 🌐Technology Stack (Technologies Used)
