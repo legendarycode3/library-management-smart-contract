@@ -152,7 +152,7 @@ Library Managment Smart Contracts are crucial in web3 blockchain systems for:
 * ****Immutable Owner Security:**** The owner address is declared as `immutable`.
 * ****Custom Errors for Gas Optimization:**** The contract uses custom errors instead of `require` strings.
 * ****Event Logging and Transparency:**** Important actions that emit events.
-* ****State Integrity Protection:****
+* ****State Integrity Protection:**** The contract maintains explicit tracking variables
 
 ## Foundry
 
