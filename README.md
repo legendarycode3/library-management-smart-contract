@@ -75,6 +75,7 @@ The primary goal of this smart contract is to: </br>
   Ensures the `LibraryManagement.sol` contract works correctly, securely, and as expected before deployment by validating:
     * Business logic.
     * Security restrictions.
+    * Event emissions.
     
 
 ## 🌐Technology Stack (Technologies Used)
