@@ -106,6 +106,7 @@ The primary goal of this smart contract is to: </br>
    ```shell
       git clone https://github.com/legendarycode3/library-management-smart-contract
    ```
+2. Navigate to the directory you created and cloned the file to:
 
 
 ## 📋Contract Details
