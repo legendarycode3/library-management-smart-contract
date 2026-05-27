@@ -92,7 +92,7 @@ The primary goal of this smart contract is to: </br>
 * Solidity Compiler, Version ^0.8.19 or higher.
 * `Remix IDE` or `Foundry Development Kit`
 
-### Recommendation
+### Recommendation (For Beginners)
 
 
 ## 📋Contract Details
