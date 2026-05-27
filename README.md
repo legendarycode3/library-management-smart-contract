@@ -76,6 +76,7 @@ The primary goal of this smart contract is to: </br>
     * Business logic.
     * Security restrictions.
     * Event emissions.
+    * Error handling.
     
 
 ## 🌐Technology Stack (Technologies Used)
