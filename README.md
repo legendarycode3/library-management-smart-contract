@@ -93,7 +93,7 @@ The primary goal of this smart contract is to: </br>
 * `Remix IDE` or `Foundry Development Kit`
 
 ### Recommendation (For Beginners)
-****NOTE (Use Remix IDE, for quick prototyping):****
+****NOTE (Use Remix IDE, for quick prototyping):**** You can literally just copy the main contract source code and paste it
 
 
 
