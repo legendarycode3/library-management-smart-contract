@@ -113,6 +113,7 @@ The primary goal of this smart contract is to: </br>
 3. Compile the smart contract: `forge build`
 
 ### Testing the contract (Using Foundry Development Kit )
+Runing all tests:
 
 
 ## 📋Contract Details
