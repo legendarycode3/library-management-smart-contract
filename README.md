@@ -90,7 +90,7 @@ The primary goal of this smart contract is to: </br>
 ## Getting Started
 ### Prerequisites
 * Solidity Compiler, Version ^0.8.19 or higher.
-* `Remix IDE` or `Foundry Development Kit`
+* `Remix IDE` or `Foundry Development Kit` 
 
 ### Recommendation (For Beginners)
 ****NOTE (Use Remix IDE, for quick prototyping):**** You can literally just copy the main contract source code and paste it on Remix IDE and learn along side how the code works while trying to build yours as you keep building.
@@ -98,7 +98,7 @@ The primary goal of this smart contract is to: </br>
 ## Usage
 ### Building the Project (Using Remix IDE): 
 1. Copy the core smart contract file code `LibraryManagement.sol`  to Remix IDE (a browser based IDE, for quick prototyping).
-2. Create a new file for the project
+2. Create a new file for the project  on your Remix IDE and paste , to learn and build along faster.
 
 
 ## 📋Contract Details
