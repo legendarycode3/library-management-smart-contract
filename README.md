@@ -48,6 +48,7 @@ The primary goal of this smart contract is to: </br>
     * Events for blockchain activity tracking.
     * Modifiers for permission control.
     * Constructor for initializing ownership.
+    * Storage of registered
 * 
 
 ## 🌐Technology Stack (Technologies Used)
