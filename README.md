@@ -95,7 +95,7 @@ The primary goal of this smart contract is to: </br>
 ### Recommendation (For Beginners)
 ****NOTE (Use Remix IDE, for quick prototyping):**** You can literally just copy the main contract source code and paste it on Remix IDE and learn along side how the code works while trying to build yours as you keep building.
 
-## Usage (How to use - When using Remix IDE)
+## Usage 
 
 ### Building the Project (Using Remix IDE): 
 1. Copy the core smart contract file code `LibraryManagement.sol`  to Remix IDE (a browser based IDE, for quick prototyping).
@@ -135,7 +135,7 @@ Runing specific test:
 * ****`s_bookState`****: Stores enum state.
 * ****`s_bookRegistry`****: Stores all books.
 
-## Usage Guide 
+## Usage Guide (How to use - When using Remix IDE)
 
 ## Why This Matters (Library Managment Smart Contract)
 Library Managment Smart Contracts are crucial in web3 blockchain systems for:
@@ -145,6 +145,7 @@ Library Managment Smart Contracts are crucial in web3 blockchain systems for:
 4. ****Data Integrity:**** Smart contracts prevent unauthorized modifications and duplicate records. This improves the reliability of the system.
 5. ****Real-Time State Synchronization:**** All blockchain participants see the same data instantly.
 
+## Security Considerations
 
 ## Foundry
 
