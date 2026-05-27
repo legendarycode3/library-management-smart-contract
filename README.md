@@ -50,8 +50,10 @@ The primary goal of this smart contract is to: </br>
     * Constructor for initializing ownership.
     * Storage of registered books and total books count.
     * Validation checks for duplicate books and non-existent books. </br>
+    
   Purpose: </br>
-    * Handles all on-chain
+   Handles all on-chain library operations including:
+    * Registering books.
 * 
 
 ## 🌐Technology Stack (Technologies Used)
