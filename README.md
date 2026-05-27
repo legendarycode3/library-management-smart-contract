@@ -72,7 +72,7 @@ The primary goal of this smart contract is to: </br>
     * State verification after transactions.
  
   Purpose: </br>
-  Ensures the `LibraryManagement.sol` contract works correctly, securely, and as expected
+  Ensures the `LibraryManagement.sol` contract works correctly, securely, and as expected before deployment by validating:
     
 
 ## 🌐Technology Stack (Technologies Used)
