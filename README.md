@@ -41,6 +41,7 @@ The primary goal of this smart contract is to: </br>
   It includes:
     * Book registration system.
     * Book availability tracking.
+    * Book status
 * 
 
 ## 🌐Technology Stack (Technologies Used)
