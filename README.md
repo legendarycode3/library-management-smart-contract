@@ -40,6 +40,7 @@ The primary goal of this smart contract is to: </br>
 * ****`LibraryManagement.sol`**** Main smart contract file containing the complete Library Management system logic.</br>
   It includes:
     * Book registration system.
+    * Book availability tracking.
 * 
 
 ## 🌐Technology Stack (Technologies Used)
