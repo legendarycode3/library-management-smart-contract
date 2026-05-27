@@ -110,7 +110,7 @@ The primary goal of this smart contract is to: </br>
    ```shell
       cd library-management-smart-contract
    ```
-3. Compile the smart contract: 
+3. Compile the smart contract: `forge build`
 
 
 ## 📋Contract Details
