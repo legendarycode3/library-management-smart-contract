@@ -63,6 +63,7 @@ The primary goal of this smart contract is to: </br>
   It includes:
     * Unit tests for all contract functions.
     * Constructor and owner initialization tests.
+    * Book registration tests.
 
 ## 🌐Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** -  The programming language for writing the Smart contracts.
