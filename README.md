@@ -47,7 +47,7 @@ The primary goal of this smart contract is to: </br>
     * Custom errors for gas-efficient reverts.
     * Events for blockchain activity tracking.
     * Modifiers for permission control.
-    * Constructor for
+    * Constructor for initializing ownership.
 * 
 
 ## 🌐Technology Stack (Technologies Used)
