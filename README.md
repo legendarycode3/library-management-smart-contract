@@ -55,6 +55,7 @@ The primary goal of this smart contract is to: </br>
    Handles all on-chain library operations including:
     * Registering books.
     * Tracking book availability.
+    * Preventing
 * 
 
 ## 🌐Technology Stack (Technologies Used)
