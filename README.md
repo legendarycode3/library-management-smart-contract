@@ -69,6 +69,7 @@ The primary goal of this smart contract is to: </br>
     * Availability toggle tests.
     * custom error testing.
     * Edge case validation.
+    * State verification after transactions.
     
 
 ## 🌐Technology Stack (Technologies Used)
