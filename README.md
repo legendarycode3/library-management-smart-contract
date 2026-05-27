@@ -37,7 +37,9 @@ The primary goal of this smart contract is to: </br>
 * ****Storage References:**** Storage Reference like this `Book storage book = s_bookRegistry[_bookId];` ,modify blockchain state variables. Its helps to avoids unnecessary memory copying.
 
 ## 📂 Project Structure (Files)
-* ****`LibraryManagement.sol`**** Main smart contract file containing the complete Library Management system logic.
+* ****`LibraryManagement.sol`**** Main smart contract file containing the complete Library Management system logic.</br>
+  It includes:
+* 
 
 ## 🌐Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** -  The programming language for writing the Smart contracts.
