@@ -57,7 +57,7 @@ The primary goal of this smart contract is to: </br>
     * Tracking book availability.
     * Preventing duplicate entries.
     * Managing access permissions securely.
-    * Emitting blockchain
+    * Emitting blockchain events for transparency.
 * 
 
 ## 🌐Technology Stack (Technologies Used)
