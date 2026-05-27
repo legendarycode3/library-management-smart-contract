@@ -70,6 +70,8 @@ The primary goal of this smart contract is to: </br>
     * custom error testing.
     * Edge case validation.
     * State verification after transactions.
+ 
+  Purpose: </br>
     
 
 ## 🌐Technology Stack (Technologies Used)
