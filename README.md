@@ -45,7 +45,7 @@ The primary goal of this smart contract is to: </br>
     * Owner-based access control.
     * State management using mappings and structs.
     * Custom errors for gas-efficient reverts.
-    * Events for blockchain
+    * Events for blockchain activity tracking.
 * 
 
 ## 🌐Technology Stack (Technologies Used)
