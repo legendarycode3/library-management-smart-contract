@@ -43,6 +43,7 @@ The primary goal of this smart contract is to: </br>
     * Book availability tracking.
     * Book status toggling functionality.
     * Owner-based access control.
+    * State management
 * 
 
 ## 🌐Technology Stack (Technologies Used)
