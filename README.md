@@ -90,6 +90,7 @@ The primary goal of this smart contract is to: </br>
 ## Getting Started
 ### Prerequisites
 * Solidity Compiler, Version ^0.8.19 or higher.
+* `Remix IDE`
 
 
 ## 📋Contract Details
