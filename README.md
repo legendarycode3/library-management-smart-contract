@@ -146,7 +146,7 @@ Library Managment Smart Contracts are crucial in web3 blockchain systems for:
 5. ****Real-Time State Synchronization:**** All blockchain participants see the same data instantly.
 
 ## Security Considerations
-* ****Access Control Security:****
+* ****Access Control Security:**** The contract uses the `onlyOwner`
 
 ## Foundry
 
