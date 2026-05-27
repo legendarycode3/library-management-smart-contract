@@ -117,6 +117,7 @@ Runing all tests:
    ```shell
         forge test
    ```
+Runing specific test:
 
 
 ## 📋Contract Details
