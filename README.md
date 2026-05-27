@@ -148,7 +148,7 @@ Library Managment Smart Contracts are crucial in web3 blockchain systems for:
 ## Security Considerations
 * ****Access Control Security:**** The contract uses the `onlyOwner` modifier to restrict sensitive actions such as adding books.
 * ****Duplicate Book Prevention:**** The contract checks whether a book already exists before adding it.
-* ****Existence Validation:**** The contract checks whether
+* ****Existence Validation:**** The contract checks whether a book already exists before adding it.
 
 ## Foundry
 
