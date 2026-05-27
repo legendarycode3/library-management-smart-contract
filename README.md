@@ -103,6 +103,9 @@ The primary goal of this smart contract is to: </br>
 
 ### Building the Project  (Using Foundry Development Kit ) - only if you are good using foundry kit
 1. Clone the repository:
+   ```shell
+      git clone https://github.com/legendarycode3/library-management-smart-contract
+   ```
 
 
 ## 📋Contract Details
