@@ -151,6 +151,7 @@ Library Managment Smart Contracts are crucial in web3 blockchain systems for:
 * ****Existence Validation:**** Before toggling availability, the contract verifies the book exists.
 * ****Immutable Owner Security:**** The owner address is declared as `immutable`.
 * ****Custom Errors for Gas Optimization:**** The contract uses custom errors instead of `require` strings.
+* ****Event Logging and Transparency:****
 
 ## Foundry
 
