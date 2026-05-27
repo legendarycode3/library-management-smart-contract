@@ -67,6 +67,8 @@ The primary goal of this smart contract is to: </br>
     * Event emission tests.
     * Access control tests.
     * Availability toggle tests.
+    * custom error testing.
+    
 
 ## 🌐Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** -  The programming language for writing the Smart contracts.
