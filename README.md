@@ -101,6 +101,8 @@ The primary goal of this smart contract is to: </br>
 2. Create a new file for the project  on your Remix IDE and paste , to learn and build along faster.
 3. And then Compile the smart  contract file you have created on Remix IDE.
 
+### Building the Project
+
 
 ## 📋Contract Details
 ### Functions:
