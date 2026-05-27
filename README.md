@@ -56,7 +56,7 @@ The primary goal of this smart contract is to: </br>
     * Registering books.
     * Tracking book availability.
     * Preventing duplicate entries.
-    * Managing access
+    * Managing access permissions securely.
 * 
 
 ## 🌐Technology Stack (Technologies Used)
