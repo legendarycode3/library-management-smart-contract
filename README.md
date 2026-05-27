@@ -150,7 +150,7 @@ Library Managment Smart Contracts are crucial in web3 blockchain systems for:
 * ****Duplicate Book Prevention:**** The contract checks whether a book already exists before adding it.
 * ****Existence Validation:**** Before toggling availability, the contract verifies the book exists.
 * ****Immutable Owner Security:**** The owner address is declared as `immutable`.
-* ****Custom Errors for Gas Optimization:**** The contract uses custom errors
+* ****Custom Errors for Gas Optimization:**** The contract uses custom errors instead of `require` strings.
 
 ## Foundry
 
