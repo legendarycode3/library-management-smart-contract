@@ -59,7 +59,7 @@ The primary goal of this smart contract is to: </br>
     * Managing access permissions securely.
     * Emitting blockchain events for transparency.
       
-* ****`LibraryManagement.t.sol`****
+* ****`LibraryManagement.t.sol`**** Test file written for validating
 
 ## 🌐Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** -  The programming language for writing the Smart contracts.
