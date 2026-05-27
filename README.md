@@ -89,7 +89,7 @@ The primary goal of this smart contract is to: </br>
 
 ## Getting Started
 ### Prerequisites
-* Solidity Compiler, 
+* Solidity Compiler, Version ^0.8.19 or higher.
 
 
 ## 📋Contract Details
