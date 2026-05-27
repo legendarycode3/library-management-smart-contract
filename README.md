@@ -87,6 +87,10 @@ The primary goal of this smart contract is to: </br>
 * ****[Foundry(forge, cast, anvil)](https://www.getfoundry.sh/)****  - Development framework and testing suite.
 * ****[Visual Studio Code](https://code.visualstudio.com/)**** - Install this IDE only if you are using foundry development kit  rather than "Remix IDE" which is for quick prototying.
 
+## Getting Started
+
+
+
 ## 📋Contract Details
 ### Functions:
 * ****`addBook()`****: Adds a new book into the library. Owner-only access. The function Prevents duplicate IDs, Stores book data and Emits registration event.
