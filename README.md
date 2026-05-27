@@ -60,6 +60,7 @@ The primary goal of this smart contract is to: </br>
     * Emitting blockchain events for transparency.
       
 * ****`LibraryManagement.t.sol`**** Test file written for validating the smart contract behavior using the Foundry testing framework.
+  It includes: 
 
 ## 🌐Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** -  The programming language for writing the Smart contracts.
