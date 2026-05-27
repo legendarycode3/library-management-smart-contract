@@ -95,7 +95,8 @@ The primary goal of this smart contract is to: </br>
 ### Recommendation (For Beginners)
 ****NOTE (Use Remix IDE, for quick prototyping):**** You can literally just copy the main contract source code and paste it on Remix IDE and learn along side how the code works while trying to build yours as you keep building.
 
-## Usage
+## Usage (How to use - When using Remix IDE)
+
 ### Building the Project (Using Remix IDE): 
 1. Copy the core smart contract file code `LibraryManagement.sol`  to Remix IDE (a browser based IDE, for quick prototyping).
 2. Create a new file for the project  on your Remix IDE and paste , to learn and build along faster.
