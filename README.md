@@ -44,7 +44,7 @@ The primary goal of this smart contract is to: </br>
     * Book status toggling functionality.
     * Owner-based access control.
     * State management using mappings and structs.
-    * Custom errors
+    * Custom errors for gas-efficient reverts.
 * 
 
 ## 🌐Technology Stack (Technologies Used)
