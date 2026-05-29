@@ -145,7 +145,7 @@ Library Managment Smart Contracts are crucial in web3 blockchain systems for:
 4. ****Data Integrity:**** Smart contracts prevent unauthorized modifications and duplicate records. This improves the reliability of the system.
 5. ****Real-Time State Synchronization:**** All blockchain participants see the same data instantly.
 
-## Common Key UseCases of 
+## Common Key UseCases of Library Management Smart Contracts
 
 ## Security Considerations
 * ****Access Control Security:**** The contract uses the `onlyOwner` modifier to restrict sensitive actions such as adding books.
