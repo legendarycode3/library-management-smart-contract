@@ -157,6 +157,7 @@ Library Managment Smart Contracts are crucial in web3 blockchain systems for:
 * ****Automated Book Lending and Returns:****  Smart contracts automatically enforce borrowing periods and return conditions.
 * ****Improved Transparency:**** All transactions (borrowing, returning, reservations) are recorded in a transparent and verifiable manner.
 * ****Reduced Administrative Work:**** Eliminates many manual processes such as tracking due dates and calculating fines.
+* ****Scalability:****
 
 ## Security Considerations
 * ****Access Control Security:**** The contract uses the `onlyOwner` modifier to restrict sensitive actions such as adding books.
