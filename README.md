@@ -154,7 +154,7 @@ Library Managment Smart Contracts are crucial in web3 blockchain systems for:
 * ****Book Tokenization:**** Represents unique book copies as NFTs.
 
 ## Benefits of Library Management Smart Contracts 
-* ****Automated Book Lending and Returns:****  Smart contracts automatically
+* ****Automated Book Lending and Returns:****  Smart contracts automatically enforce borrowing periods and return conditions.
 
 ## Security Considerations
 * ****Access Control Security:**** The contract uses the `onlyOwner` modifier to restrict sensitive actions such as adding books.
