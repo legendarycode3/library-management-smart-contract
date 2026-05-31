@@ -162,7 +162,7 @@ Library Managment Smart Contracts are crucial in web3 blockchain systems for:
 * ****Accurate Record Management:**** Maintains reliable and permanent borrowing histories.
 * ****Reduced Human Errors:**** Eliminates mistakes associated with manual data entry and tracking.
 * ****24/7 Service Availability:**** Smart contracts operate continuously without requiring human intervention.
-* ****Trust and Accountability:****
+* ****Trust and Accountability:**** Ensures all participants follow
 
 ## Security Considerations
 * ****Access Control Security:**** The contract uses the `onlyOwner` modifier to restrict sensitive actions such as adding books.
