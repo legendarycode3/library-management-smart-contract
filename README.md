@@ -164,7 +164,7 @@ Library Managment Smart Contracts are crucial in web3 blockchain systems for:
 * ****24/7 Service Availability:**** Smart contracts operate continuously without requiring human intervention.
 * ****Trust and Accountability:**** Ensures all participants follow the same transparent rules.
 * ****Efficient Resource Sharing:**** Supports secure collaboration and inter-library lending among multiple libraries.
-* ****Faster Transactions:****
+* ****Faster Transactions:**** Book checkouts, returns,
 
 ## Security Considerations
 * ****Access Control Security:**** The contract uses the `onlyOwner` modifier to restrict sensitive actions such as adding books.
