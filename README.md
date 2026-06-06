@@ -21,7 +21,7 @@ The primary goal of this smart contract is to: </br>
 * ****Event Emission:**** These events `BookRegistered` and `BookStatusToggled` improve transparency and offchain interaction.
 * ****Custom Errors:**** Gas-efficient custom Solidity errors are used instead of long revert strings.
 * ****Fully Decentralized Library System:***** All core library operations are executed on-chain, eliminating dependence on centralized databases.
-* ****Real-Time Availability Tracking:**** The contract continuously
+* ****Real-Time Availability Tracking:**** The contract continuously tracks the number of available and
 
 ## 🧠 Key Concepts Applied
 * ****Struct:**** The contract uses a `struct` to organize and store book information efficiently.</br>
