@@ -22,7 +22,7 @@ The primary goal of this smart contract is to: </br>
 * ****Custom Errors:**** Gas-efficient custom Solidity errors are used instead of long revert strings.
 * ****Fully Decentralized Library System:***** All core library operations are executed on-chain, eliminating dependence on centralized databases.
 * ****Real-Time Availability Tracking:**** The contract continuously tracks the number of available and borrowed copies, ensuring accurate inventory management.
-* ****On-Chain Book Management:**** Store and manage book records
+* ****On-Chain Book Management:**** Store and manage book records directly on the blockchain, including titles, authors,
 
 ## 🧠 Key Concepts Applied
 * ****Struct:**** The contract uses a `struct` to organize and store book information efficiently.</br>
