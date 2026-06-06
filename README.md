@@ -20,7 +20,7 @@ The primary goal of this smart contract is to: </br>
 * ****On-Chain Storage:**** All books are permanently stored on the blockchain through mappings.
 * ****Event Emission:**** These events `BookRegistered` and `BookStatusToggled` improve transparency and offchain interaction.
 * ****Custom Errors:**** Gas-efficient custom Solidity errors are used instead of long revert strings.
-* ****Fully Decentralized Library System:***** All core library operations
+* ****Fully Decentralized Library System:***** All core library operations are executed on-chain,
 
 ## 🧠 Key Concepts Applied
 * ****Struct:**** The contract uses a `struct` to organize and store book information efficiently.</br>
